@@ -68,7 +68,7 @@ Storage: 512GB NVMe Gen 3.0
 Editor: VS Code
 IDE of choice: Visual Studio 2022
 Shell: PowerShell
-Terminal: Windows Terminal (Feels like best terminal out there!)
+Terminal: Windows Terminal (Feels like the best terminal out there!)
 WM: Desktop Window Manager (DWM)
 ```
 
