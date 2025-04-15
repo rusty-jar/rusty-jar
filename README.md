@@ -34,11 +34,42 @@
 
 ### 🛠️ Tech Stack
 
-```txt
-Languages:   Python, C, C++, JavaScript, TypeScript, Rust (learning)
-Frameworks:  PySide6, Qt, CUDA, PyTorch, React, Node.js,
-Tools:       Git, Docker, Visual Studio 2022, VSCode, OS: GNU/Linux (Fedora & Ubuntu) & Windows 11
-Others:      MySQL, Firebase, MongoDB, SQLite
+```yaml
+Languages:      Python, C, C++, JavaScript, TypeScript, Rust (learning)
+Frameworks:     PySide6, Qt, CUDA, PyTorch, React, Node.js
+Tools:          Git, GDB, Valgrind, Docker
+IDEs & Editors: Visual Studio 2022, VSCode, JupyterLab, PlatformIO (Embedded Development)
+OS:             GNU/Linux (Fedora & Ubuntu) & Windows 11
+Others:         MySQL, Firebase, MongoDB, SQLite, StarUML, Inno Setup
+
+Embedded Development experience: 
+ - Raspberry Pi Pico/Pico W (RP2040) [official C/C++ SDK and MicroPython]
+ - Arduino Nano (Atmega328P) [Arduino SDK]
+ - ESP8266 [Arduino based SDK for ESP8266]
+ - STM32 (BluePill and BlackPill) [LibOpenCM3 library]
+
+Favourite cloud provider: Microsoft Azure
+```
+
+---
+
+### 💻 System Specs
+
+```yaml
+System type: Laptop (Mobile Workstation)
+OS: Windows 11 (It gets the job done)
+VMs: Fedora Workstation 41, and Ubuntu 24.04
+Virtualization Software: Virtual Box
+CPU: Ryzen 7535HS (45W)
+iGPU: Radeon 660M
+dGPU: RTX 3050 [GA107M] 6GB (85W) clocked at 1.90GHz
+Memory: 16GB DDR5 @ 4800Mhz
+Storage: 512GB NVMe Gen 3.0
+Editor: VS Code
+IDE of choice: Visual Studio 2022
+Shell: PowerShell
+Terminal: Windows Terminal (Feels like best terminal out there!)
+WM: Desktop Window Manager (DWM)
 ```
 
 ---
